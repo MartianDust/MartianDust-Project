@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Plugins/Mars Motion Toolkit/Scenes/Testing Grounds.unity
+    guid: d875dbde75b371249b319b7b106824c9
+  - enabled: 0
+    path: Assets/Plugins/Mars Motion Toolkit/Scenes/Obstacles Platform.unity
+    guid: cab34a95e9b01c8449cf238866bfe1ae
+  m_configObjects: {}
